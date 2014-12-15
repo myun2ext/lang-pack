@@ -1,0 +1,3 @@
+Undo: 元に戻す
+Create: 作成
+Update: 更新
